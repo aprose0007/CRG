@@ -1,0 +1,117 @@
+=== COMPARISON ===
+
+Latest file: NDIAN_ENGINEERS_DISCIPLINARY_PROCEEDINGS_IN_INFRASTRUCTURE_FAILURE_(2022–2024)_Full_Report (1).docx
+
+======================================================================
+  GENERATED (latest)
+======================================================================
+  ERROR loading: "no content type for partname '/word/media/005e217277657a2192fa7d2bfe731ff356355a2a.undefined' in [Content_Types].xml"
+
+
+
+======================================================================
+  REFERENCE TEMPLATE
+======================================================================
+
+--- Section 1 ---
+  Margins L/R/T/B: 0.89/0.98/0.96/0.19
+
+--- Section 2 ---
+  Margins L/R/T/B: 0.89/0.98/2.17/0.19
+
+--- Section 3 ---
+  Margins L/R/T/B: 0.89/0.98/2.17/0.19
+
+--- Section 4 ---
+  Margins L/R/T/B: 0.89/0.98/1.31/0.19
+
+[P0] Align=INHERITED
+  'PROJECT TITLE'
+  R0: []
+  R2: []
+
+[P2] Align=CENTER
+  'A CAPSTONE PROJECT REPORT'
+  R0: [14.0pt,BOLD]
+  R2: [14.0pt,BOLD]
+
+[P5] Align=CENTER
+  'Submitted in the partial fulfilment for the Course of'
+  R0: [14.0pt,ITALIC]
+  R2: [14.0pt,ITALIC]
+
+[P7] Align=INHERITED
+  'Course Code – Course Name with Extension'
+  R0: []
+  R2: []
+
+[P9] Align=CENTER
+  'to the award of the degree of BACHELOR OF ENGINEERING IN'
+  R0: [14.0pt,ITALIC]
+  R1: [14.0pt,BOLD]
+
+[P10] Align=CENTER
+  'Branch Name (E.g. BIOTECHNOLOGY)'
+  R0: [14.0pt,BOLD]
+  R2: [14.0pt,BOLD]
+
+[P13] Align=INHERITED
+  'Submitted by Student Name (Reg. No.) Student Name (Reg. No.)'
+  R0: [14.0pt,BOLD]
+  R1: [14.0pt,BOLD]
+
+[P15] Align=CENTER
+  'Under the Supervision of Guide Name'
+  R0: [14.0pt,BOLD]
+  R2: [14.0pt,BOLD]
+
+[P18] Align=INHERITED
+  'SIMATS ENGINEERING'
+  R0: []
+  R2: []
+
+[P19] Align=CENTER
+  'Saveetha Institute of Medical and Technical Sciences Chennai-602105'
+  R0: [14.0pt,BOLD]
+  R2: [14.0pt,BOLD]
+
+[P21] Align=CENTER
+  'July 2025'
+  R0: [14.0pt,BOLD]
+  R1: [14.0pt,BOLD]
+
+[P24] Align=INHERITED
+  'DECLARATION'
+  R0: []
+
+[P27] Align=JUSTIFIED
+  'We, [Student Name 1],[Student Names],S[Student Names] of the [Department Name], Saveetha I'
+  R0: []
+  R1: [BOLD]
+  R2: [BOLD]
+
+[P32] Align=INHERITED
+  'Place:Chennai'
+  R0: [14.0pt]
+  R1: [14.0pt]
+
+[P33] Align=INHERITED
+  'Date: submission date'
+  R0: [14.0pt]
+  R2: [14.0pt]
+
+[P39] Align=INHERITED
+  'Signature of the Students with Names'
+  R0: [14.0pt]
+  R2: [14.0pt]
+
+[P42] Align=INHERITED
+  'BONAFIDE CERTIFICATE'
+  R0: []
+  R2: []
+
+[P44] Align=JUSTIFIED
+  'This is to certify that the Capstone Project entitled “Project Title” has been carried out'
+  R0: []
+  R1: [BOLD]
+  R2: []

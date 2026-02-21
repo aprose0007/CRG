@@ -1,0 +1,638 @@
+Total paragraphs: 523
+
+
+[P78] Style='Heading' Align=JUSTIFIED
+  Text: 'ABSTRACT'
+  R0: 'ABSTRACT' []
+
+[P79] Style='Body' Align=LEFT
+  Text: 'Testing VPN Across Different Operating Systems'
+  SpaceAfter: 101600
+  LineSpacing: 1.0791666666666666 rule=MULTIPLE (5)
+  R0: 'Testing VPN Across Different Operating Systems' [BOLD]
+
+[P80] Style='Body' Align=LEFT
+  Text: 'Virtual Private Networks (VPNs) play a critical role in safeguarding online privacy, enabling secure remote access, and '
+  SpaceAfter: 101600
+  LineSpacing: 1.0791666666666666 rule=MULTIPLE (5)
+  R0: 'Virtual Private Networks (VPNs) play a critical role in safeguarding o' []
+
+[P81] Style='Body' Align=LEFT
+  Text: 'The testing methodology involved deploying OpenVPN, Wire Guard, and IKEv2/IPSec protocols under controlled network condi'
+  SpaceAfter: 101600
+  LineSpacing: 1.0791666666666666 rule=MULTIPLE (5)
+  R0: 'The testing methodology involved deploying OpenVPN, Wire Guard, and IK' []
+
+[P82] Style='Body' Align=LEFT
+  Text: 'The study highlights critical interoperability challenges, such as inconsistent kill switch behaviour and DNS leak vulne'
+  SpaceAfter: 101600
+  LineSpacing: 1.0791666666666666 rule=MULTIPLE (5)
+  R0: 'The study highlights critical interoperability challenges, such as inc' []
+
+[P88] Style='Body' Align=CENTER
+  Text: 'CHAPTER 1'
+  SpaceAfter: 101600
+  LineSpacing: 1.0791666666666666 rule=MULTIPLE (5)
+  R0: 'CHAPTER 1' [BOLD]
+
+[P89] Style='Body' Align=LEFT
+  Text: 'INTRODUCTION'
+  SpaceAfter: 101600
+  LineSpacing: 1.0791666666666666 rule=MULTIPLE (5)
+  R0: 'INTRODUCTION' [BOLD]
+
+[P90] Style='Body' Align=LEFT
+  Text: '1.1 Background Information'
+  SpaceAfter: 101600
+  LineSpacing: 1.0791666666666666 rule=MULTIPLE (5)
+  R0: '1.1 Background Information' [BOLD]
+
+[P91] Style='Body' Align=LEFT
+  Text: 'In today’s hyper-connected digital landscape, Virtual Private Networks (VPNs) have become indispensable tools for ensuri'
+  SpaceAfter: 101600
+  LineSpacing: 1.0791666666666666 rule=MULTIPLE (5)
+  R0: 'In today' []
+  R1: '’' []
+  R2: 's hyper-connected digital landscape, Virtual Private Networks (VPNs) h' []
+
+[P92] Style='Body' Align=LEFT
+  Text: 'Each operating system presents unique challenges and advantages in terms of VPN integration. Desktop environments like W'
+  SpaceAfter: 101600
+  LineSpacing: 1.0791666666666666 rule=MULTIPLE (5)
+  R0: 'Each operating system presents unique challenges and advantages in ter' []
+
+[P93] Style='Body' Align=LEFT
+  Text: 'This study aims to conduct a systematic analysis of VPN performance across multiple operating systems, focusing on proto'
+  SpaceAfter: 101600
+  LineSpacing: 1.0791666666666666 rule=MULTIPLE (5)
+  R0: 'This study aims to conduct a systematic analysis of VPN performance ac' []
+  R1: '—' []
+  R2: 'including OpenVPN, Wire Guard, and IKEv2/IPSec' []
+  R3: '—' []
+  R4: 'under controlled conditions, the research will highlight platform-spec' []
+
+[P94] Style='Body' Align=LEFT
+  Text: '1.2 Project Objectives'
+  SpaceAfter: 101600
+  LineSpacing: 1.0791666666666666 rule=MULTIPLE (5)
+  R0: '1.2 Project Objectives' [BOLD]
+
+[P95] Style='Body' Align=LEFT
+  Text: 'This project focuses on evaluating the performance, compatibility, and reliability of Virtual Private Networks (VPNs) ac'
+  SpaceAfter: 101600
+  LineSpacing: 1.0791666666666666 rule=MULTIPLE (5)
+  R0: 'This project focuses on evaluating the performance, compatibility, and' []
+  R1: '—' []
+  R2: 'such as connection speed, latency, data throughput, encryption stabili' []
+  R3: '—' []
+  R4: 'are measured under controlled network conditions.' []
+
+[P96] Style='Body' Align=LEFT
+  Text: 'The project also examines user experience factors like ease of installation, interface design, and protocol flexibility.'
+  SpaceAfter: 101600
+  LineSpacing: 1.0791666666666666 rule=MULTIPLE (5)
+  R0: 'The project also examines user experience factors like ease of install' []
+
+[P97] Style='Body' Align=LEFT
+  Text: '1.3 Significance'
+  SpaceAfter: 101600
+  LineSpacing: 1.0791666666666666 rule=MULTIPLE (5)
+  R0: '1.3 Significance' [BOLD]
+
+[P98] Style='Body' Align=LEFT
+  Text: 'The significance of this project lies in its contribution to enhancing secure digital communication across heterogeneous'
+  SpaceAfter: 101600
+  LineSpacing: 1.0791666666666666 rule=MULTIPLE (5)
+  R0: 'The significance of this project lies in its contribution to enhancing' []
+  R1: '—' []
+  R2: 'Windows, macOS, Linux, Android, and iOS' []
+  R3: '—' []
+  R4: 'handles network protocols, background processes, and security configur' []
+
+[P99] Style='Body' Align=LEFT
+  Text: 'By systematically testing VPNs across these platforms, the project identifies key interoperability challenges, such as i'
+  SpaceAfter: 101600
+  LineSpacing: 1.0791666666666666 rule=MULTIPLE (5)
+  R0: 'By systematically testing VPNs across these platforms, the project ide' []
+
+[P100] Style='Body' Align=LEFT
+  Text: 'This research also encourages VPN providers to improve client adaptability and standardization, fostering more seamless '
+  SpaceAfter: 101600
+  LineSpacing: 1.0791666666666666 rule=MULTIPLE (5)
+  R0: 'This research also encourages VPN providers to improve client adaptabi' []
+
+[P101] Style='Body' Align=LEFT
+  Text: '1.4 Scope'
+  SpaceAfter: 101600
+  LineSpacing: 1.0791666666666666 rule=MULTIPLE (5)
+  R0: '1.4 Scope' [BOLD]
+
+[P102] Style='Body' Align=LEFT
+  Text: 'This project aims to systematically evaluate the performance, compatibility, and security features of Virtual Private Ne'
+  SpaceAfter: 101600
+  LineSpacing: 1.0791666666666666 rule=MULTIPLE (5)
+  R0: 'This project aims to systematically evaluate the performance, compatib' []
+  R1: '—' []
+  R2: 'connection speed, latency, data throughput, encryption stability, DNS ' []
+  R3: '—' []
+  R4: 'will be measured under controlled network conditions to ensure consist' []
+
+[P103] Style='Body' Align=LEFT
+  Text: 'The project also explores user experience factors, including ease of installation, interface design, and protocol flexib'
+  SpaceAfter: 101600
+  LineSpacing: 1.0791666666666666 rule=MULTIPLE (5)
+  R0: 'The project also explores user experience factors, including ease of i' []
+
+[P104] Style='Body' Align=LEFT
+  Text: 'By identifying platform-specific strengths and limitations, the project provides actionable insights for developers, IT '
+  SpaceAfter: 101600
+  LineSpacing: 1.0791666666666666 rule=MULTIPLE (5)
+  R0: 'By identifying platform-specific strengths and limitations, the projec' []
+
+[P105] Style='Body' Align=LEFT
+  Text: '1.5 Methodology Overview'
+  SpaceAfter: 101600
+  LineSpacing: 1.0791666666666666 rule=MULTIPLE (5)
+  R0: '1.5 Methodology Overview' [BOLD]
+
+[P106] Style='Body' Align=LEFT
+  Text: 'The methodology for this project involves a structured, multi-phase approach to evaluate VPN performance, compatibility,'
+  SpaceAfter: 101600
+  LineSpacing: 1.0791666666666666 rule=MULTIPLE (5)
+  R0: 'The methodology for this project involves a structured, multi-phase ap' []
+
+[P107] Style='Body' Align=LEFT
+  Text: 'Phase 1: Environment Setup'
+  SpaceAfter: 101600
+  LineSpacing: 1.0791666666666666 rule=MULTIPLE (5)
+  R1: 'Phase 1: Environment Setup' [BOLD]
+
+[P108] Style='Body' Align=LEFT
+  Text: 'Install and configure each OS on physical or virtual machines.'
+  SpaceAfter: 101600
+  LineSpacing: 1.0791666666666666 rule=MULTIPLE (5)
+  R0: 'Install and configure each OS on physical or virtual machines.' []
+
+[P109] Style='Body' Align=LEFT
+  Text: 'Select VPN protocols for testing: OpenVPN, Wire Guard, and IKEv2/IPSec.'
+  SpaceAfter: 101600
+  LineSpacing: 1.0791666666666666 rule=MULTIPLE (5)
+  R0: 'Select VPN protocols for testing: OpenVPN, Wire Guard, and IKEv2/IPSec' []
+
+[P110] Style='Body' Align=LEFT
+  Text: 'Use both native VPN clients and reputable third-party applications.'
+  SpaceAfter: 101600
+  LineSpacing: 1.0791666666666666 rule=MULTIPLE (5)
+  R0: 'Use both native VPN clients and reputable third-party applications.' []
+
+[P111] Style='Body' Align=LEFT
+  Text: 'Measure connection time, latency, bandwidth throughput, and packet loss under Phase 2: Performance Testing'
+  SpaceAfter: 101600
+  LineSpacing: 1.0791666666666666 rule=MULTIPLE (5)
+  R0: 'Measure connection time, latency, bandwidth throughput, and packet los' []
+  R1: 'Phase 2: Performance Testing' [BOLD]
+
+[P112] Style='Body' Align=LEFT
+  Text: 'identical network conditions.'
+  SpaceAfter: 101600
+  LineSpacing: 1.0791666666666666 rule=MULTIPLE (5)
+  R0: 'identical network conditions.' []
+
+[P113] Style='Body' Align=LEFT
+  Text: 'Conduct tests during peak and off-peak hours to simulate variable traffic loads.'
+  SpaceAfter: 101600
+  LineSpacing: 1.0791666666666666 rule=MULTIPLE (5)
+  R0: 'Conduct tests during peak and off-peak hours to simulate variable traf' []
+
+[P114] Style='Body' Align=LEFT
+  Text: 'Use tools like imperf, Wireshark, and system logs for data collection.'
+  SpaceAfter: 101600
+  LineSpacing: 1.0791666666666666 rule=MULTIPLE (5)
+  R0: 'Use tools like imperf, Wireshark, and system logs for data collection.' []
+
+[P115] Style='Body' Align=LEFT
+  Text: 'Phase 3: Security Evaluation'
+  SpaceAfter: 101600
+  LineSpacing: 1.0791666666666666 rule=MULTIPLE (5)
+  R1: 'Phase 3: Security Evaluation' [BOLD]
+
+[P116] Style='Body' Align=LEFT
+  Text: 'Test for DNS leaks, IP leaks, and kill switch reliability.'
+  SpaceAfter: 101600
+  LineSpacing: 1.0791666666666666 rule=MULTIPLE (5)
+  R0: 'Test for DNS leaks, IP leaks, and kill switch reliability.' []
+
+[P117] Style='Body' Align=LEFT
+  Text: 'Evaluate encryption strength and protocol negotiation behaviour.'
+  SpaceAfter: 101600
+  LineSpacing: 1.0791666666666666 rule=MULTIPLE (5)
+  R0: 'Evaluate encryption strength and protocol negotiation behaviour.' []
+
+[P118] Style='Body' Align=LEFT
+  Text: 'Simulate network interruptions to assess reconnection and failover mechanisms.'
+  SpaceAfter: 101600
+  LineSpacing: 1.0791666666666666 rule=MULTIPLE (5)
+  R0: 'Simulate network interruptions to assess reconnection and failover mec' []
+
+[P119] Style='Body' Align=LEFT
+  Text: 'Phase 4: Usability and Compatibility'
+  SpaceAfter: 101600
+  LineSpacing: 1.0791666666666666 rule=MULTIPLE (5)
+  R1: 'Phase 4: Usability and Compatibility' [BOLD]
+
+[P120] Style='Body' Align=LEFT
+  Text: 'Assess installation complexity, UI design, and protocol flexibility.'
+  SpaceAfter: 101600
+  LineSpacing: 1.0791666666666666 rule=MULTIPLE (5)
+  R0: 'Assess installation complexity, UI design, and protocol flexibility.' []
+
+[P121] Style='Body' Align=LEFT
+  Text: 'Document OS-specific limitations such as background process handling and driver support.'
+  SpaceAfter: 101600
+  LineSpacing: 1.0791666666666666 rule=MULTIPLE (5)
+  R0: 'Document OS-specific limitations such as background process handling a' []
+
+[P122] Style='Body' Align=LEFT
+  Text: 'Record user experience feedback where applicable.'
+  SpaceAfter: 101600
+  LineSpacing: 1.0791666666666666 rule=MULTIPLE (5)
+  R0: 'Record user experience feedback where applicable.' []
+
+[P123] Style='Body' Align=LEFT
+  Text: 'Phase 5: Data Analysis and Reporting'
+  SpaceAfter: 101600
+  LineSpacing: 1.0791666666666666 rule=MULTIPLE (5)
+  R0: 'Phase 5: Data Analysis and Reporting' [BOLD]
+
+[P124] Style='Body' Align=LEFT
+  Text: 'Compare results across platforms using charts and tables.'
+  SpaceAfter: 101600
+  LineSpacing: 1.0791666666666666 rule=MULTIPLE (5)
+  R0: 'Compare results across platforms using charts and tables.' []
+
+[P125] Style='Body' Align=LEFT
+  Text: 'Identify trends, anomalies, and platform-specific strengths or weaknesses.'
+  SpaceAfter: 101600
+  LineSpacing: 1.0791666666666666 rule=MULTIPLE (5)
+  R0: 'Identify trends, anomalies, and platform-specific strengths or weaknes' []
+
+[P126] Style='Body' Align=LEFT
+  Text: 'Summarize findings to support recommendations for optimal VPN deployment.'
+  SpaceAfter: 101600
+  LineSpacing: 1.0791666666666666 rule=MULTIPLE (5)
+  R0: 'Summarize findings to support recommendations for optimal VPN deployme' []
+
+[P127] Style='Body' Align=LEFT
+  Text: 'This methodology ensures a comprehensive and objective evaluation of VPN behaviour across diverse operating systems, pro'
+  SpaceAfter: 101600
+  LineSpacing: 1.0791666666666666 rule=MULTIPLE (5)
+  R0: 'This methodology ensures a comprehensive and objective evaluation of V' []
+
+[P129] Style='Body' Align=CENTER
+  Text: 'CHAPTER 2'
+  SpaceAfter: 101600
+  LineSpacing: 1.0791666666666666 rule=MULTIPLE (5)
+  R0: 'CHAPTER 2' [BOLD]
+
+[P130] Style='Body' Align=LEFT
+  Text: 'PROBLEM IDENTIFICATION AND ANALYSIS'
+  SpaceAfter: 101600
+  LineSpacing: 1.0791666666666666 rule=MULTIPLE (5)
+  R0: 'PROBLEM IDENTIFICATION AND ANALYSIS' [BOLD]
+
+[P131] Style='Body' Align=LEFT
+  Text: '2.1 Description of the Problem'
+  SpaceAfter: 101600
+  LineSpacing: 1.0791666666666666 rule=MULTIPLE (5)
+  R0: '2.1 Description of the Problem' [BOLD]
+
+[P132] Style='Body' Align=LEFT
+  Text: 'Description of the Problem: Testing VPN Across Different Operating Systems'
+  SpaceAfter: 101600
+  LineSpacing: 1.0791666666666666 rule=MULTIPLE (5)
+  R0: 'Description of the Problem' [BOLD]
+  R1: ': Testing VPN Across Different Operating Systems' []
+
+[P133] Style='Body' Align=LEFT
+  Text: 'In an increasingly digital and mobile world, Virtual Private Networks (VPNs) are vital for securing data, maintaining pr'
+  SpaceAfter: 101600
+  LineSpacing: 1.0791666666666666 rule=MULTIPLE (5)
+  R0: 'In an increasingly digital and mobile world, Virtual Private Networks ' []
+  R1: '—' []
+  R2: 'Windows, macOS, Linux, Android, and iOS' []
+  R3: '—' []
+  R4: 'has its own network architecture, protocol handling mechanisms, and sy' []
+
+[P134] Style='Body' Align=LEFT
+  Text: 'This inconsistency presents a major challenge for users and IT professionals who rely on VPNs for secure communication a'
+  SpaceAfter: 101600
+  LineSpacing: 1.0791666666666666 rule=MULTIPLE (5)
+  R0: 'This inconsistency presents a major challenge for users and IT profess' []
+
+[P135] Style='Body' Align=LEFT
+  Text: 'The lack of standardized performance across operating systems leads to fragmented user experiences and potential securit'
+  SpaceAfter: 101600
+  LineSpacing: 1.0791666666666666 rule=MULTIPLE (5)
+  R0: 'The lack of standardized performance across operating systems leads to' []
+
+[P136] Style='Body' Align=LEFT
+  Text: '2.2 Evidence of the Problem:'
+  SpaceAfter: 101600
+  LineSpacing: 1.0791666666666666 rule=MULTIPLE (5)
+  R0: '2.2 Evidence of the Problem:' [BOLD]
+
+[P137] Style='Body' Align=LEFT
+  Text: 'The need to test VPNs across different operating systems is supported by growing evidence of inconsistent performance, s'
+  SpaceAfter: 101600
+  LineSpacing: 1.0791666666666666 rule=MULTIPLE (5)
+  R0: 'The need to test VPNs across different operating systems is supported ' []
+  R1: '’' []
+  R2: 's strict network extension policies, leading to reduced flexibility an' []
+
+[P138] Style='Body' Align=LEFT
+  Text: 'Additionally, enterprise IT teams report challenges in deploying uniform VPN policies across mixed environments. Kill sw'
+  SpaceAfter: 101600
+  LineSpacing: 1.0791666666666666 rule=MULTIPLE (5)
+  R0: 'Additionally, enterprise IT teams report challenges in deploying unifo' []
+  R1: '—' []
+  R2: 'a critical security feature' []
+  R3: '—' []
+  R4: 'varies widely, with some platforms failing to block traffic during VPN' []
+
+[P139] Style='Body' Align=LEFT
+  Text: 'Performance benchmarks further reveal that throughput and latency differ across platforms due to variations in network s'
+  SpaceAfter: 101600
+  LineSpacing: 1.0791666666666666 rule=MULTIPLE (5)
+  R0: 'Performance benchmarks further reveal that throughput and latency diff' []
+
+[P140] Style='Body' Align=LEFT
+  Text: 'This body of evidence underscores the importance of a systematic, cross-platform evaluation to identify and address the '
+  SpaceAfter: 101600
+  LineSpacing: 1.0791666666666666 rule=MULTIPLE (5)
+  R0: 'This body of evidence underscores the importance of a systematic, cros' []
+
+[P141] Style='Body' Align=LEFT
+  Text: '2.3 Stakeholders:'
+  SpaceAfter: 101600
+  LineSpacing: 1.0791666666666666 rule=MULTIPLE (5)
+  R0: '2.3 Stakeholders:' [BOLD]
+
+[P142] Style='Body' Align=LEFT
+  Text: 'The success and relevance of this project depend on a diverse group of stakeholders, each with distinct interests and re'
+  SpaceAfter: 101600
+  LineSpacing: 1.0791666666666666 rule=MULTIPLE (5)
+  R0: 'The success and relevance of this project depend on a diverse group of' []
+  R3: 'These professionals are responsible for configuring, managing, and mai' []
+
+[P143] Style='Body' Align=LEFT
+  Text: 'These stakeholders benefit from performance benchmarks and compatibility insights to improve client software, enhance pr'
+  SpaceAfter: 101600
+  LineSpacing: 1.0791666666666666 rule=MULTIPLE (5)
+  R0: 'These stakeholders benefit from performance benchmarks and compatibili' []
+
+[P144] Style='Body' Align=LEFT
+  Text: 'Researchers studying cybersecurity, networking, and cross-platform software behavior can use this project as a reference'
+  SpaceAfter: 101600
+  LineSpacing: 1.0791666666666666 rule=MULTIPLE (5)
+  R0: 'Researchers studying cybersecurity, networking, and cross-platform sof' []
+
+[P145] Style='Body' Align=LEFT
+  Text: 'Together, these stakeholders shape the development, deployment, and adoption of VPN technologies across diverse operatin'
+  SpaceAfter: 101600
+  LineSpacing: 1.0791666666666666 rule=MULTIPLE (5)
+  R0: 'Together, these stakeholders shape the development, deployment, and ad' []
+
+[P146] Style='Body' Align=LEFT
+  Text: '2.4 Supporting Data and Research:'
+  SpaceAfter: 101600
+  LineSpacing: 1.0791666666666666 rule=MULTIPLE (5)
+  R0: '2.4 Supporting Data and Research:' [BOLD]
+
+[P147] Style='Body' Align=LEFT
+  Text: 'A growing body of technical research and user-reported data highlights the need for evaluating VPN performance across di'
+  SpaceAfter: 101600
+  LineSpacing: 1.0791666666666666 rule=MULTIPLE (5)
+  R0: 'A growing body of technical research and user-reported data highlights' []
+  R1: 'IEEE Access' [ITALIC]
+  R2: 'and' []
+  R3: 'ACM Computing Surveys' [ITALIC]
+  R4: 'have shown that VPN protocol efficiency' []
+
+[P148] Style='Body' Align=LEFT
+  Text: 'Benchmarking tools like imperf, Net Spot, and Wireshark have been used in comparative analyses to measure throughput, pa'
+  SpaceAfter: 101600
+  LineSpacing: 1.0791666666666666 rule=MULTIPLE (5)
+  R0: 'Benchmarking tools like imperf, Net Spot, and Wireshark have been used' []
+  R1: '’' []
+  R2: 's aggressive battery optimization can interrupt VPN sessions during id' []
+
+[P149] Style='Body' Align=LEFT
+  Text: 'Security audits conducted by independent researchers have found inconsistent kill switch behaviour across operating syst'
+  SpaceAfter: 101600
+  LineSpacing: 1.0791666666666666 rule=MULTIPLE (5)
+  R0: 'Security audits conducted by independent researchers have found incons' []
+
+[P150] Style='Body' Align=LEFT
+  Text: 'This supporting data underscores the importance of cross-platform testing to identify performance gaps, enhance security'
+  SpaceAfter: 101600
+  LineSpacing: 1.0791666666666666 rule=MULTIPLE (5)
+  R0: 'This supporting data underscores the importance of cross-platform test' []
+
+[P152] Style='Body' Align=CENTER
+  Text: 'CHAPTER 3'
+  SpaceAfter: 101600
+  LineSpacing: 1.0791666666666666 rule=MULTIPLE (5)
+  R0: 'CHAPTER 3' [BOLD]
+
+[P153] Style='Body' Align=LEFT
+  Text: 'SOLUTION DESIGN AND IMPLEMENTATION'
+  SpaceAfter: 101600
+  LineSpacing: 1.0791666666666666 rule=MULTIPLE (5)
+  R0: 'SOLUTION DESIGN AND IMPLEMENTATION' [BOLD]
+
+[P154] Style='Body' Align=LEFT
+  Text: '3.1 Development and Design Process:'
+  SpaceAfter: 101600
+  LineSpacing: 1.0791666666666666 rule=MULTIPLE (5)
+  R0: '3.1 Development and Design Process:' [BOLD]
+
+[P155] Style='Body' Align=LEFT
+  Text: 'Testing VPN Across Different Operating Systems'
+  SpaceAfter: 101600
+  LineSpacing: 1.0791666666666666 rule=MULTIPLE (5)
+  R0: 'Testing VPN Across Different Operating Systems' [BOLD]
+
+[P156] Style='Body' Align=LEFT
+  Text: 'The development and design process for this project follows a structured, multi-phase approach to ensure thorough evalua'
+  SpaceAfter: 101600
+  LineSpacing: 1.0791666666666666 rule=MULTIPLE (5)
+  R0: 'The development and design process for this project follows a structur' []
+
+[P157] Style='Body' Align=LEFT
+  Text: 'Phase 1: Requirements Definition'
+  SpaceAfter: 101600
+  LineSpacing: 1.0791666666666666 rule=MULTIPLE (5)
+  R1: 'Phase 1: Requirements Definition' [BOLD]
+
+[P158] Style='Body' Align=LEFT
+  Text: 'Identify key VPN protocols to be tested (OpenVPN, Wire Guard, IKEv2/IPSec).'
+  SpaceAfter: 101600
+  LineSpacing: 1.0791666666666666 rule=MULTIPLE (5)
+  R0: 'Identify key VPN protocols to be tested (OpenVPN, Wire Guard, IKEv2/IP' []
+
+[P159] Style='Body' Align=LEFT
+  Text: 'Select representative operating systems and devices for testing.'
+  SpaceAfter: 101600
+  LineSpacing: 1.0791666666666666 rule=MULTIPLE (5)
+  R0: 'Select representative operating systems and devices for testing.' []
+
+
+=== TOC TABLE DETAILS ===
+Rows: 6, Cols: 3
+  R0C0: 'S.NO'
+    Run: 'S.NO' [size=14.0, BOLD]
+  R0C1: 'CONTENT'
+    Align: LEFT
+    Run: 'CONTENT' [size=14.0, BOLD]
+  R0C2: 'Page. No'
+    Align: LEFT
+    Run: 'Page. No' [size=14.0, BOLD]
+  R1C0: '1.'
+    Align: LEFT
+    Align: LEFT
+    Run: '1' [size=14.0, BOLD]
+    Run: '.' [BOLD]
+  R1C1: 'Introduction 
+Background Information
+Project Objects
+Signifi'
+    Align: LEFT
+    Run: 'Introduction' [BOLD]
+    Align: JUSTIFIED
+    Run: 'Background Information' []
+    Align: JUSTIFIED
+    Run: 'Project Objects' []
+    Align: JUSTIFIED
+    Run: 'Significance' []
+    Align: JUSTIFIED
+    Run: 'Scope' []
+    Align: JUSTIFIED
+    Run: 'Methodology' []
+  R1C2: '08'
+    Align: LEFT
+    Align: LEFT
+    Align: LEFT
+    Run: '08' [size=14.0, BOLD]
+  R2C0: '2.'
+    Align: LEFT
+    Align: LEFT
+    Align: LEFT
+    Run: '2.' [size=14.0, BOLD]
+  R2C1: 'Problem Identification and Analysis
+            2.1 Descript'
+    Align: LEFT
+    Run: 'Problem Identification and Analysis' [BOLD]
+    Align: LEFT
+    Run: '2.1 Description of the Problem' []
+    Align: LEFT
+    Run: '2.2 Evidence of the Problem' []
+    Align: LEFT
+    Run: '2.3 Stakeholders' []
+    Align: LEFT
+    Run: '2.4 Supporting Data and Research' []
+  R2C2: '12'
+    Align: LEFT
+    Align: LEFT
+    Align: LEFT
+    Run: '12' [size=14.0, BOLD]
+  R3C0: '3.'
+    Align: LEFT
+    Align: LEFT
+    Align: LEFT
+    Run: '3.' [size=14.0, BOLD]
+  R3C1: 'Solution Design and Implementation
+            3.1 Developme'
+    Align: LEFT
+    Run: 'Solution Design and Implementation' [BOLD]
+    Align: LEFT
+    Run: '3.1 Development and Design Process' []
+    Align: LEFT
+    Run: '3.2 Tools and Technologies Used' []
+    Align: LEFT
+    Run: '3.4 Engineering Standards Applied' []
+    Align: LEFT
+    Run: '3.5 Solution Justification' []
+    Align: LEFT
+    Run: '3.6 Controlled Testing Environments Ensure Reliabi' []
+    Align: LEFT
+    Run: '3.7 Architure Diagram' []
+  R3C2: '15'
+    Align: LEFT
+    Align: LEFT
+    Align: LEFT
+    Align: LEFT
+    Run: '15' [size=14.0, BOLD]
+  R4C0: '4.'
+    Align: LEFT
+    Align: LEFT
+    Align: LEFT
+    Run: '4.' [BOLD]
+  R4C1: 'Results and Recommendations 
+            4.1 Recommedations
+'
+    Align: LEFT
+    Run: 'Results and Recommendations' [BOLD]
+    Align: LEFT
+    Run: '4.1 Recommedations' []
+    Align: LEFT
+    Run: '4.2 Challenges Encountered' []
+    Align: LEFT
+    Run: '4.3 Possible Improvement' []
+    Align: LEFT
+    Run: '4.4 Results' []
+    Align: LEFT
+  R4C2: '23'
+    Align: LEFT
+    Align: LEFT
+    Align: LEFT
+    Run: '23' [size=14.0, BOLD]
+  R5C0: '5.
+
+ 
+6.'
+    Align: LEFT
+    Align: LEFT
+    Align: LEFT
+    Run: '5.' [size=14.0, BOLD]
+    Align: LEFT
+    Align: LEFT
+    Align: LEFT
+    Run: '6.' [size=14.0, BOLD]
+  R5C1: 'Reflection On Learning and Personal Development 
+           '
+    Align: LEFT
+    Run: 'Reflection On Learning and Personal Development' [BOLD]
+    Align: LEFT
+    Run: '5.1 Kening   and   Learning Outcomes' []
+    Align: LEFT
+    Run: '5.2 Challenges Encountered and Overcome' []
+    Align: LEFT
+    Align: LEFT
+    Align: LEFT
+    Run: 'Conclusion' [size=14.0, BOLD]
+    Align: LEFT
+    Align: LEFT
+    Align: LEFT
+  R5C2: '28
+
+
+
+      30'
+    Align: LEFT
+    Align: LEFT
+    Run: '28' [size=14.0, BOLD]
+    Align: LEFT
+    Align: LEFT
+    Align: LEFT
+    Align: LEFT
+    Run: '30' [size=14.0, BOLD]

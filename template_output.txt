@@ -1,0 +1,108 @@
+=== PARAGRAPHS ===
+[Para 0] Style: Heading 1
+  Text: 'PROJECT TITLE'
+
+[Para 2] Style: Normal
+  Text: 'A CAPSTONE PROJECT REPORT'
+
+[Para 5] Style: Normal
+  Text: 'Submitted in the partial fulfilment for the Course of'
+
+[Para 7] Style: Heading 2
+  Text: 'Course Code – Course Name with Extension'
+
+[Para 9] Style: Normal
+  Text: 'to the award of the degree of BACHELOR OF ENGINEERING IN'
+
+[Para 10] Style: Normal
+  Text: 'Branch Name (E.g. BIOTECHNOLOGY)'
+
+[Para 13] Style: Normal
+  Text: 'Submitted by Student Name (Reg. No.) Student Name (Reg. No.)'
+
+[Para 15] Style: Normal
+  Text: 'Under the Supervision of Guide Name'
+
+[Para 18] Style: Heading 1
+  Text: 'SIMATS ENGINEERING'
+
+[Para 19] Style: Normal
+  Text: 'Saveetha Institute of Medical and Technical Sciences Chennai-602105'
+
+[Para 21] Style: Normal
+  Text: 'July 2025'
+
+[Para 24] Style: Heading 1
+  Text: 'DECLARATION'
+
+[Para 27] Style: Body Text
+  Text: 'We, [Student Name 1],[Student Names],S[Student Names] of the [Department Name], Saveetha Institute of Medical and Technical Sciences, Saveetha University, Chennai, hereby declare that the Capstone Project Work entitled ‘[Project Title]’ is the result of our own bonafide efforts. To the best of our knowledge, the work presented herein is original, accurate, and has been carried out in accordance with principles of engineering ethics.'
+
+[Para 32] Style: Normal
+  Text: 'Place:Chennai'
+
+[Para 33] Style: Normal
+  Text: 'Date: submission date'
+
+[Para 39] Style: Normal
+  Text: 'Signature of the Students with Names'
+
+[Para 42] Style: Heading 1
+  Text: 'BONAFIDE CERTIFICATE'
+
+[Para 44] Style: Body Text
+  Text: 'This is to certify that the Capstone Project entitled “Project Title” has been carried out by [Student Names 1], [Student Names 2] , [Student Names 3]  under the supervision of [Guide Name] and is submitted in partial fulfilment of the requirements for the current semester of the B.Tech [Branch Name] program at Saveetha Institute of Medical and Technical Sciences, Chennai.'
+
+[Para 51] Style: Normal
+  Text: 'SIGNATURE\tSIGNATURE'
+
+[Para 52] Style: Normal
+  Text: 'Name of the Program Director\tName of the Guide'
+
+[Para 53] Style: Normal
+  Text: 'Program Director\tDesignation'
+
+[Para 54] Style: Normal
+  Text: 'Department Name (Branch)\tDepartment Name (Branch)'
+
+[Para 55] Style: Normal
+  Text: 'Saveetha School of Engineering\tSaveetha School of Engineering'
+
+[Para 56] Style: Normal
+  Text: 'SIMATS\tSIMATS'
+
+[Para 62] Style: Normal
+  Text: 'Submitted for the Project work Viva-Voce held on            viva date\t'
+
+[Para 63] Style: Normal
+  Text: '.'
+
+[Para 70] Style: Normal
+  Text: 'INTERNAL EXAMINER\tEXTERNAL EXAMINER'
+
+[Para 72] Style: Heading 1
+  Text: 'ACKNOWLEDGEMENT'
+
+[Para 74] Style: Body Text
+  Text: 'We would like to express our heartfelt gratitude to all those who supported and guided us throughout the successful completion of our Capstone Project. We are deeply thankful to our respected Founder and Chancellor, Dr. N.M. Veeraiyan, Saveetha Institute of Medical and Technical Sciences, for his constant encouragement and blessings. We also express our sincere thanks to our Pro-Chancellor, Dr. Deepak Nallaswamy Veeraiyan, and our Vice-Chancellor, Dr. S. Suresh Kumar, for their visionary leadership and moral support during the course of this project.'
+
+[Para 76] Style: Body Text
+  Text: 'We are truly grateful to our Director, Dr. Ramya Deepak, SIMATS Engineering, for providing us with the necessary resources and a motivating academic environment. Our special thanks to our Principal, Dr. B. Ramesh for granting us access to the institute’s facilities and encouraging us throughout the process. We sincerely thank our Head of the Department, Program Director NAME for his continuous support, valuable guidance, and constant motivation.'
+
+[Para 78] Style: Body Text
+  Text: 'We are especially indebted to our guide, Guide Name for his creative suggestions, consistent feedback, and unwavering support during each stage of the project. We also express our gratitude to the Project Coordinators, Review Panel Members (Internal and External), and the entire faculty team for their constructive feedback and valuable inputs that helped improve the quality of our work. Finally, we thank all faculty members, lab technicians, our parents, and friends for their continuous encouragement and support.'
+
+[Para 84] Style: Body Text
+  Text: 'Signature With Student Name'
+
+[Para 85] Style: Normal
+  Text: '(Student Name 1 -Reg No)'
+
+[Para 86] Style: Normal
+  Text: '\t(Student Name 2 - Reg.No) '
+
+[Para 87] Style: Normal
+  Text: '(Student Name 3 - Reg.No)'
+
+
+=== TABLES ===

@@ -1,0 +1,700 @@
+
+================================================================================
+  ANALYZING: FRONT PAGES
+================================================================================
+
+--- Section 1 ---
+  Page inches: 8.28 x 11.69
+  Margins L/R/T/B: 0.89/0.98/0.96/0.19
+  Header dist: 0.50 Footer dist: 0.50
+
+--- Section 2 ---
+  Page inches: 8.28 x 11.69
+  Margins L/R/T/B: 0.89/0.98/2.17/0.19
+  Header dist: 1.01 Footer dist: 0.00
+
+--- Section 3 ---
+  Page inches: 8.28 x 11.69
+  Margins L/R/T/B: 0.89/0.98/2.17/0.19
+  Header dist: 1.01 Footer dist: 0.00
+
+--- Section 4 ---
+  Page inches: 8.28 x 11.69
+  Margins L/R/T/B: 0.89/0.98/1.31/0.19
+  Header dist: 0.00 Footer dist: 0.00
+
+--- Paragraphs (first 80) ---
+
+[P0] Style='Heading 1' Align=None
+  Text: 'PROJECT TITLE'
+  SpaceBefore: 38100
+  R0: 'PROJECT' []
+  R2: 'TITLE' []
+
+[P2] Style='Normal' Align=CENTER
+  Text: 'A CAPSTONE PROJECT REPORT'
+  SpaceBefore: 635
+  R0: 'A' [size=14.0pt, BOLD]
+  R2: 'CAPSTONE' [size=14.0pt, BOLD]
+  R4: 'PROJECT' [size=14.0pt, BOLD]
+  R6: 'REPORT' [size=14.0pt, BOLD]
+
+[P5] Style='Normal' Align=CENTER
+  Text: 'Submitted in the partial fulfilment for the Course of'
+  SpaceBefore: 635
+  R0: 'Submitted' [size=14.0pt, ITALIC]
+  R2: 'in' [size=14.0pt, ITALIC]
+  R4: 'the' [size=14.0pt, ITALIC]
+  R6: 'partial' [size=14.0pt, ITALIC]
+  R8: 'fulfilment' [size=14.0pt, ITALIC]
+  R10: 'for' [size=14.0pt, ITALIC]
+  R12: 'the' [size=14.0pt, ITALIC]
+  R14: 'Course' [size=14.0pt, ITALIC]
+  R15: 'of' [size=14.0pt, ITALIC]
+
+[P7] Style='Heading 2' Align=None
+  Text: 'Course Code – Course Name with Extension'
+  R0: 'Course' []
+  R2: 'Code' []
+  R4: '–' []
+  R6: 'Course' []
+  R8: 'Name' []
+  R10: 'with' []
+  R12: 'Extension' []
+
+[P9] Style='Normal' Align=CENTER
+  Text: 'to the award of the degree of BACHELOR OF ENGINEERING IN'
+  LineSpacing: 1.5791666666666666 rule=MULTIPLE (5)
+  R0: 'to the award of the degree of' [size=14.0pt, ITALIC]
+  R1: 'BACHELOR' [size=14.0pt, BOLD]
+  R3: 'OF' [size=14.0pt, BOLD]
+  R5: 'ENGINEERING' [size=14.0pt, BOLD]
+  R6: 'IN' [size=14.0pt, BOLD]
+
+[P10] Style='Normal' Align=CENTER
+  Text: 'Branch Name (E.g. BIOTECHNOLOGY)'
+  LineSpacing: 201930 rule=EXACTLY (4)
+  R0: 'Branch' [size=14.0pt, BOLD]
+  R2: 'Name' [size=14.0pt, BOLD]
+  R4: '(E.g.' [size=14.0pt, BOLD]
+  R6: 'BIOTECHNOLOGY)' [size=14.0pt, BOLD]
+
+[P13] Style='Normal' Align=None
+  Text: 'Submitted by Student Name (Reg. No.) Student Name (Reg. No.)'
+  LineSpacing: 1.5791666666666666 rule=MULTIPLE (5)
+  R0: 'Submitted by' [size=14.0pt, BOLD]
+  R1: 'Student' [size=14.0pt, BOLD]
+  R3: 'Name' [size=14.0pt, BOLD]
+  R5: '(Reg.' [size=14.0pt, BOLD]
+  R7: 'No.) Student' [size=14.0pt, BOLD]
+  R9: 'Name' [size=14.0pt, BOLD]
+  R11: '(Reg.' [size=14.0pt, BOLD]
+  R13: 'No.)' [size=14.0pt, BOLD]
+
+[P15] Style='Normal' Align=CENTER
+  Text: 'Under the Supervision of Guide Name'
+  SpaceBefore: 635
+  LineSpacing: 1.5791666666666666 rule=MULTIPLE (5)
+  R0: 'Under' [size=14.0pt, BOLD]
+  R2: 'the' [size=14.0pt, BOLD]
+  R4: 'Supervision' [size=14.0pt, BOLD]
+  R6: 'of' [size=14.0pt, BOLD]
+  R7: 'Guide Name' [size=14.0pt, BOLD]
+
+[P18] Style='Heading 1' Align=None
+  Text: 'SIMATS ENGINEERING'
+  SpaceBefore: 5080
+  R0: 'SIMATS' []
+  R2: 'ENGINEERING' []
+
+[P19] Style='Normal' Align=CENTER
+  Text: 'Saveetha Institute of Medical and Technical Sciences Chennai-602105'
+  SpaceBefore: 124460
+  LineSpacing: 1.5791666666666666 rule=MULTIPLE (5)
+  R0: 'Saveetha' [size=14.0pt, BOLD]
+  R2: 'Institute' [size=14.0pt, BOLD]
+  R4: 'of' [size=14.0pt, BOLD]
+  R6: 'Medical' [size=14.0pt, BOLD]
+  R8: 'and' [size=14.0pt, BOLD]
+  R10: 'Technical' [size=14.0pt, BOLD]
+  R12: 'Sciences' [size=14.0pt, BOLD]
+  R13: 'Chennai-602105' [size=14.0pt, BOLD]
+
+[P21] Style='Normal' Align=CENTER
+  Text: 'July 2025'
+  R0: 'July' [size=14.0pt, BOLD]
+  R1: '2025' [size=14.0pt, BOLD]
+
+[P24] Style='Heading 1' Align=None
+  Text: 'DECLARATION'
+  R0: 'DECLARATION' []
+
+[P27] Style='Body Text' Align=JUSTIFIED
+  Text: 'We, [Student Name 1],[Student Names],S[Student Names] of the [Department Name], Saveetha Institute of Medical and Techni'
+  LineSpacing: 1.5 rule=ONE_POINT_FIVE (1)
+  R0: 'We,' []
+  R1: '[Student Name' [BOLD]
+  R2: '1' [BOLD]
+  R3: ']' [BOLD]
+  R4: ',' [BOLD]
+  R5: '[Student Names]' [BOLD]
+  R6: ',' [BOLD]
+  R7: 'S' [BOLD]
+  R8: '[Student Names]' [BOLD]
+  R10: 'of the' []
+  R11: '[Department' [BOLD]
+  R13: 'Name]' [BOLD]
+  R14: ',' [BOLD]
+  R16: 'Saveetha' []
+  R18: 'Institute' []
+  R20: 'of' []
+  R22: 'Medical' []
+  R24: 'and Technical Sciences, Saveetha University, Chennai, hereby declare t' []
+  R25: '‘[Project Title' [BOLD]
+  R26: ']’' []
+  R27: 'is the result of our own' []
+  R28: 'bonafide' []
+  R29: 'efforts. To the best of our knowledge, the work presented herein is or' []
+
+[P32] Style='Normal' Align=None
+  Text: 'Place:Chennai'
+  R0: 'Place:' [size=14.0pt]
+  R1: 'Chennai' [size=14.0pt]
+
+[P33] Style='Normal' Align=None
+  Text: 'Date: submission date'
+  SpaceBefore: 118110
+  R0: 'Date:' [size=14.0pt]
+  R2: 'submission date' [size=14.0pt]
+
+[P39] Style='Normal' Align=None
+  Text: 'Signature of the Students with Names'
+  R0: 'Signature' [size=14.0pt]
+  R2: 'of' [size=14.0pt]
+  R4: 'the' [size=14.0pt]
+  R6: 'Students' [size=14.0pt]
+  R8: 'with' [size=14.0pt]
+  R10: 'Names' [size=14.0pt]
+
+[P42] Style='Heading 1' Align=None
+  Text: 'BONAFIDE CERTIFICATE'
+  R0: 'BONAFIDE' []
+  R2: 'CERTIFICATE' []
+
+[P44] Style='Body Text' Align=JUSTIFIED
+  Text: 'This is to certify that the Capstone Project entitled “Project Title” has been carried out by [Student Names 1], [Studen'
+  LineSpacing: 1.5 rule=ONE_POINT_FIVE (1)
+  R0: 'This is to certify that the Capstone Project entitled “' []
+  R1: 'Project Title' [BOLD]
+  R2: '” has been carried out by' []
+  R3: '[Student Names' [BOLD]
+  R4: '1' [BOLD]
+  R5: ']' [BOLD]
+  R6: ',' [BOLD]
+  R8: '[Student Names' [BOLD]
+  R9: '2' [BOLD]
+  R10: ']' [BOLD]
+  R12: ',' [BOLD]
+  R14: '[Student Names' [BOLD]
+  R15: '3' [BOLD]
+  R16: ']' [BOLD]
+  R18: 'under' []
+  R19: 'the supervision of' []
+  R20: '[Guide Name]' [BOLD]
+  R21: 'and is submitted in' []
+  R23: 'partial fulfilment of the requirements for the current semester of the' []
+  R24: 'B.Tech' []
+  R26: '[Branch Name]' [BOLD]
+  R27: 'program at Saveetha Institute of Medical and Technical Sciences, Chenn' []
+
+[P51] Style='Normal' Align=None
+  Text: 'SIGNATURE	SIGNATURE'
+  R0: 'SIGNATURE' []
+  R2: 'SIGNATURE' []
+
+[P52] Style='Normal' Align=None
+  Text: 'Name of the Program Director	Name of the Guide'
+  SpaceBefore: 114300
+  R0: 'Name' [BOLD]
+  R2: 'of' [BOLD]
+  R4: 'the' [BOLD]
+  R6: 'Program' [BOLD]
+  R8: 'Director' [BOLD]
+  R9: 'Name' [BOLD]
+  R11: 'of' [BOLD]
+  R13: 'the' [BOLD]
+  R15: 'Guide' [BOLD]
+
+[P53] Style='Normal' Align=None
+  Text: 'Program Director	Designation'
+  SpaceBefore: 114300
+  R0: 'Program' [BOLD]
+  R2: 'Director' [BOLD]
+  R4: 'Designation' [BOLD]
+
+[P54] Style='Normal' Align=None
+  Text: 'Department Name (Branch)	Department Name (Branch)'
+  SpaceBefore: 114300
+  R0: 'Department' []
+  R2: 'Name' []
+  R4: '(Branch)' []
+  R5: 'Department' []
+  R7: 'Name' []
+  R9: '(Branch)' []
+
+[P55] Style='Normal' Align=None
+  Text: 'Saveetha School of Engineering	Saveetha School of Engineering'
+  SpaceBefore: 114300
+  R0: 'Saveetha' []
+  R2: 'School' []
+  R4: 'of' []
+  R6: 'Engineering' []
+  R7: 'Saveetha' []
+  R9: 'School' []
+  R11: 'of' []
+  R13: 'Engineering' []
+
+[P56] Style='Normal' Align=None
+  Text: 'SIMATS	SIMATS'
+  SpaceBefore: 114300
+  R0: 'SIMATS' []
+  R2: 'SIMATS' []
+
+[P62] Style='Normal' Align=None
+  Text: 'Submitted for the Project work Viva-Voce held on            viva date'
+  R0: 'Submitted' []
+  R2: 'for' []
+  R4: 'the' []
+  R6: 'Project' []
+  R8: 'work' []
+  R10: 'Viva-Voce' []
+  R12: 'held' []
+  R14: 'on' []
+  R16: 'viva date' []
+
+[P63] Style='Normal' Align=None
+  Text: '.'
+  SpaceBefore: 12700
+  R0: '.' []
+
+[P70] Style='Normal' Align=None
+  Text: 'INTERNAL EXAMINER	EXTERNAL EXAMINER'
+  R0: 'INTERNAL' []
+  R2: 'EXAMINER' []
+  R3: 'EXTERNAL' []
+  R5: 'EXAMINER' []
+
+[P72] Style='Heading 1' Align=None
+  Text: 'ACKNOWLEDGEMENT'
+  SpaceBefore: 42545
+  R0: 'ACKNOWLEDGEMENT' []
+
+[P74] Style='Body Text' Align=JUSTIFIED
+  Text: 'We would like to express our heartfelt gratitude to all those who supported and guided us throughout the successful comp'
+  LineSpacing: 1.5 rule=ONE_POINT_FIVE (1)
+  R0: 'We would like to express our heartfelt gratitude to all those who supp' []
+  R2: 'Institute of Medical and Technical Sciences,' []
+  R4: 'for' []
+  R6: 'his' []
+  R8: 'constant' []
+  R10: 'encouragement' []
+  R12: 'and' []
+  R14: 'blessings.' []
+  R16: 'We' []
+  R18: 'also express our sincere thanks to our Pro-Chancellor, Dr. Deepak' []
+  R20: 'Nallaswamy' []
+  R22: 'Veeraiyan,' []
+  R24: 'and our' []
+  R26: 'Vice-Chancellor,' []
+  R28: 'Dr.' []
+  R30: 'S.' []
+  R32: 'Suresh' []
+  R34: 'Kumar,' []
+  R36: 'for' []
+  R38: 'their' []
+  R40: 'visionary' []
+  R42: 'leadership' []
+  R44: 'and' []
+  R46: 'moral' []
+  R48: 'support during the course of this project.' []
+
+[P76] Style='Body Text' Align=JUSTIFIED
+  Text: 'We are truly grateful to our Director, Dr. Ramya Deepak, SIMATS Engineering, for providing us with the necessary resourc'
+  LineSpacing: 1.5 rule=ONE_POINT_FIVE (1)
+  R0: 'We' []
+  R2: 'are' []
+  R4: 'truly' []
+  R6: 'grateful' []
+  R8: 'to' []
+  R10: 'our' []
+  R12: 'Director,' []
+  R14: 'Dr.' []
+  R16: 'Ramya' []
+  R18: 'Deepak,' []
+  R20: 'SIMATS' []
+  R22: 'Engineering,' []
+  R24: 'for providing us with the necessary resources and a motivating academi' []
+  R25: 'Program Director NAME' [BOLD]
+  R26: 'for his continuous support, valuable guidance,' []
+  R28: 'and constant motivation.' []
+
+[P78] Style='Body Text' Align=JUSTIFIED
+  Text: 'We are especially indebted to our guide, Guide Name for his creative suggestions, consistent feedback, and unwavering su'
+  LineSpacing: 1.5 rule=ONE_POINT_FIVE (1)
+  R0: 'We are especially indebted to our guide,' []
+  R2: 'Guide' [BOLD]
+  R4: 'Name' [BOLD]
+  R6: 'for' []
+  R8: 'his' []
+  R10: 'creative' []
+  R12: 'suggestions, consistent feedback, and unwavering support during each s' []
+
+--- Tables (0) ---
+
+--- Images ---
+  media/image1.png
+
+
+
+
+================================================================================
+  ANALYZING: VPN REPORT
+================================================================================
+
+--- Section 1 ---
+  Page inches: 8.28 x 11.69
+  Margins L/R/T/B: 1.00/0.96/1.05/1.20
+  Header dist: 0.50 Footer dist: 0.50
+
+--- Paragraphs (first 80) ---
+
+[P0] Style='Body' Align=CENTER
+  Text: 'CROSS-PLATFROM VPN TESTING'
+  SpaceAfter: 162560
+  LineSpacing: 1.0 rule=SINGLE (0)
+  R0: 'CROSS-PLATFROM VPN TESTING' [size=20.0pt, BOLD]
+
+[P1] Style='Heading' Align=None
+  Text: 'A CAPSTONE PROJECT REPORT'
+  R0: 'A CAPSTONE PROJECT REPORT' []
+
+[P3] Style='Body' Align=CENTER
+  Text: 'Submitted in the partial fulfilment for the Course of'
+  SpaceAfter: 60960
+  LineSpacing: 1.025 rule=MULTIPLE (5)
+  R0: 'Submitted in the partial fulfilment for the Course of' [size=14.0pt, ITALIC]
+
+[P5] Style='Body' Align=CENTER
+  Text: 'CSA0708-COMPUTER NETWORS AND WEB COONECTIONS'
+  SpaceAfter: 50800
+  LineSpacing: 1.0 rule=SINGLE (0)
+  R0: 'CSA0708-COMPUTER NETWORS AND WEB COONECTIONS' [size=16.0pt, BOLD]
+
+[P7] Style='Body' Align=CENTER
+  Text: 'To the award of the degree of'
+  SpaceAfter: 155575
+  LineSpacing: 1.025 rule=MULTIPLE (5)
+  R0: 'To the award of the degree of' [size=14.0pt, ITALIC]
+
+[P8] Style='Heading' Align=None
+  Text: 'BACHELOR OF ENGINEERING'
+  R0: 'BACHELOR OF ENGINEERING' []
+
+[P9] Style='Heading' Align=None
+  Text: 'IN'
+  R0: 'IN' []
+
+[P10] Style='Body' Align=CENTER
+  Text: 'BRANCH NNAME: CSE (AIDS), CSE (AIML), ECE'
+  SpaceAfter: 155575
+  LineSpacing: 1.0 rule=SINGLE (0)
+  R0: 'BRANCH NNAME: CSE (AIDS), CSE (AIML), ECE' [size=14.0pt, BOLD]
+
+[P11] Style='Heading' Align=None
+  Text: 'Submitted by'
+  R0: 'Submitted by' []
+
+[P12] Style='Body' Align=CENTER
+  Text: 'K. Rakul (192525143)'
+  SpaceAfter: 155575
+  LineSpacing: 1.2 rule=MULTIPLE (5)
+  R0: 'K. Rakul (192525143)' [size=14.0pt, BOLD]
+
+[P13] Style='Body' Align=CENTER
+  Text: 'N.Sanjay (192524148)'
+  SpaceAfter: 155575
+  LineSpacing: 1.2 rule=MULTIPLE (5)
+  R0: 'N.Sanjay (192524148)' [size=14.0pt, BOLD]
+
+[P14] Style='Body' Align=CENTER
+  Text: 'B.Nikhil sagar reddy (192512117)'
+  SpaceAfter: 155575
+  LineSpacing: 1.2 rule=MULTIPLE (5)
+  R0: 'B.Nikhil sagar reddy (192512117)' [size=14.0pt, BOLD]
+
+[P15] Style='Body' Align=CENTER
+  Text: 'Under the Supervision of'
+  SpaceAfter: 155575
+  LineSpacing: 1.2 rule=MULTIPLE (5)
+  R0: 'Under the Supervision of' []
+
+[P16] Style='Body' Align=CENTER
+  Text: 'DR.Poorani'
+  SpaceAfter: 127000
+  LineSpacing: 1.0 rule=SINGLE (0)
+  R0: 'DR.' [size=14.0pt, BOLD]
+  R1: 'Poorani' [size=14.0pt, BOLD]
+
+[P20] Style='Body' Align=CENTER
+  Text: 'SIMATS ENGINEERING'
+  SpaceAfter: 141605
+  LineSpacing: 1.0 rule=SINGLE (0)
+  R0: 'SIMATS ENGINEERING' [size=20.0pt, BOLD]
+
+[P21] Style='Body' Align=CENTER
+  Text: 'Saveetha Institute of Medical and Technical Sciences'
+  SpaceAfter: 141605
+  LineSpacing: 1.0 rule=SINGLE (0)
+  R0: 'Saveetha Institute of Medical and Technical Sciences' [size=14.0pt, BOLD]
+
+[P22] Style='Body' Align=CENTER
+  Text: 'August 2025'
+  SpaceAfter: 141605
+  LineSpacing: 1.0 rule=SINGLE (0)
+  R0: 'August 2025' []
+
+[P24] Style='Body' Align=CENTER
+  Text: 'SIMATS ENGINEERING'
+  SpaceAfter: 165100
+  LineSpacing: 1.0 rule=SINGLE (0)
+  R0: 'SIMATS ENGINEERING' [size=22.0pt, BOLD]
+
+[P25] Style='Heading' Align=None
+  Text: 'Saveetha Institute of Medical and Technical Sciences'
+  R2: 'Saveetha Institute of Medical and Technical Sciences' []
+
+[P26] Style='Heading' Align=None
+  Text: 'Chennai-602105'
+  R0: 'Chennai-602105' []
+
+[P28] Style='Body' Align=CENTER
+  Text: 'DECLARATION'
+  SpaceAfter: 141605
+  LineSpacing: 1.0 rule=SINGLE (0)
+  R0: 'DECLARATION' [size=20.0pt, BOLD]
+
+[P31] Style='Body' Align=CENTER
+  Text: 'We, [K.RAKUL, N.SANJAY AND B.NIKHIL SAGAR REDDY ]of the [CSE{AIML}, CSE{AIDS}, ECE], Saveetha Institute of Medical and T'
+  SpaceAfter: 162560
+  LineSpacing: 1.0 rule=SINGLE (0)
+  R0: 'We,' []
+  R1: '[K.RAKUL, N.SANJAY AND B.NIKHIL SAGAR REDDY ]' [BOLD]
+  R2: 'of the' []
+  R3: '[CSE{AIML}, CSE{AIDS}, ECE],' [BOLD]
+  R4: 'Saveetha Institute of Medical and Technical Sciences, Saveetha Univers' []
+  R5: '‘' [BOLD]
+  R6: '[' [BOLD]
+  R7: 'CROSS-PLATFROM VPN TESTING]' [BOLD]
+  R8: '’' [BOLD]
+  R9: 'is the result of our own bonafide efforts. To the best of our knowledg' []
+
+[P34] Style='Body' Align=LEFT
+  Text: 'Place: Chennai'
+  SpaceAfter: 153035
+  LineSpacing: 1.0 rule=SINGLE (0)
+  R0: 'Place:' [size=14.0pt]
+  R1: 'Chennai' [size=14.0pt]
+
+[P35] Style='Body' Align=LEFT
+  Text: 'Date: 13/2/26'
+  SpaceAfter: 153035
+  LineSpacing: 1.0 rule=SINGLE (0)
+  R0: 'Date:' [size=14.0pt]
+  R1: '13/2/26' [size=14.0pt]
+
+[P39] Style='Body' Align=RIGHT
+  Text: 'Signature of the Students with Names'
+  SpaceAfter: 153035
+  LineSpacing: 1.0 rule=SINGLE (0)
+  R0: 'Signature of the Students with Names' [size=14.0pt]
+
+[P45] Style='Body' Align=LEFT
+  Text: 'SIMATS ENGINEERING'
+  SpaceAfter: 165100
+  LineSpacing: 1.0 rule=SINGLE (0)
+  R0: 'SIMATS ENGINEERING' [size=22.0pt, BOLD]
+
+[P46] Style='Body' Align=LEFT
+  Text: 'Saveetha Institute of Medical and Technical Sciences'
+  SpaceAfter: 155575
+  LineSpacing: 1.2 rule=MULTIPLE (5)
+  R2: 'Saveetha Institute of Medical and Technical Sciences' [size=14.0pt, BOLD]
+
+[P47] Style='Heading' Align=None
+  Text: 'Chennai-602105'
+  R0: 'Chennai-602105' []
+
+[P49] Style='Body' Align=LEFT
+  Text: 'BONAFIDE CERTIFICATE'
+  SpaceAfter: 160020
+  LineSpacing: 1.0 rule=SINGLE (0)
+  R0: 'BONAFIDE CERTIFICATE' [size=20.0pt, BOLD]
+
+[P51] Style='Body' Align=CENTER
+  Text: 'This is to certify that the Capstone Project entitled “CROSS-PLATFROM VPN TESTING”'
+  SpaceAfter: 162560
+  LineSpacing: 1.0 rule=SINGLE (0)
+  R0: 'This is to certify that the Capstone Project entitled' []
+  R1: '“' []
+  R2: 'CROSS-PLATFROM VPN TESTING' [BOLD]
+  R3: '”' [BOLD]
+
+[P52] Style='Body' Align=None
+  Text: 'has been carried out by [ K.Rakul, N.Sanjay, B.Nikhil sagar reddy ] under the supervision of [DR.Anand] and is submitted'
+  SpaceAfter: 214630
+  R0: 'has been carried out by' []
+  R1: '[ K.Rakul, N.Sanjay, B.Nikhil sagar reddy ]' [BOLD]
+  R2: 'under the supervision of' []
+  R3: '[DR.Anand]' [BOLD]
+  R4: 'and is submitted in partial fulfilment of the requirements for the cur' []
+  R5: '[CSE{AIML}, CSE{AIDS}, ECE]' [BOLD]
+  R6: 'program at Saveetha Institute of Medical and Technical Sciences, Chenn' []
+
+[P55] Style='Body' Align=LEFT
+  Text: 'SIGNATURE                                                                            	SIGNATURE'
+  SpaceAfter: 218440
+  LineSpacing: 1.0 rule=SINGLE (0)
+  R0: 'SIGNATURE' [size=11.0pt, BOLD]
+  R2: 'SIGNATURE' [size=11.0pt, BOLD]
+
+[P56] Style='Body' Align=LEFT
+  Text: 'Name of the Program Director                                          	Dr.Poorani'
+  SpaceAfter: 141605
+  LineSpacing: 1.2583333333333333 rule=MULTIPLE (5)
+  R0: 'Name of the Program Director                                          ' [size=11.0pt, BOLD]
+  R1: 'Poorani' [size=11.0pt, BOLD]
+
+[P57] Style='Body' Align=LEFT
+  Text: 'Program Director 	     	 	 	 	  	 Associate professor'
+  SpaceAfter: 141605
+  LineSpacing: 1.2583333333333333 rule=MULTIPLE (5)
+  R0: 'Program Director' [size=11.0pt, BOLD]
+  R1: 'Associate professor' [size=11.0pt]
+
+[P58] Style='Body' Align=LEFT
+  Text: 'Department Name (Branch)                                     	  	Department Name (Branch)'
+  SpaceAfter: 137160
+  LineSpacing: 1.025 rule=MULTIPLE (5)
+  R0: 'Department Name (Branch)                                     	  	Depar' [size=11.0pt]
+
+[P59] Style='Body' Align=LEFT
+  Text: 'Saveetha School of Engineering                                          	Saveetha School of Engineering'
+  SpaceAfter: 137160
+  LineSpacing: 1.025 rule=MULTIPLE (5)
+  R0: 'Saveetha School of Engineering                                        ' [size=11.0pt]
+
+[P60] Style='Body' Align=LEFT
+  Text: 'SIMATS                                                                               	SIMATS'
+  SpaceAfter: 137160
+  LineSpacing: 1.025 rule=MULTIPLE (5)
+  R0: 'SIMATS                                                                ' [size=11.0pt]
+
+[P63] Style='Body' Align=LEFT
+  Text: 'Submitted for the Project work Viva-Voce held on __________________________________'
+  SpaceAfter: 38735
+  LineSpacing: 1.025 rule=MULTIPLE (5)
+  R0: 'Submitted for the Project work Viva-Voce held on _____________________' [size=11.0pt]
+
+[P65] Style='Body' Align=LEFT
+  Text: 'INTERNAL EXAMINER                                                                      EXTERNAL EXAMINER'
+  SpaceAfter: 137160
+  LineSpacing: 1.025 rule=MULTIPLE (5)
+  R0: 'INTERNAL EXAMINER                                                     ' [size=11.0pt]
+
+[P66] Style='Body' Align=CENTER
+  Text: 'ACKNOWLEDGEMENT'
+  SpaceAfter: 153035
+  LineSpacing: 1.0 rule=SINGLE (0)
+  R0: 'ACKNOWLEDGEMENT' [size=20.0pt, BOLD]
+
+[P68] Style='Body' Align=None
+  Text: 'We would like to express our heartfelt gratitude to all those who supported and guided us throughout the successful comp'
+  R0: 'We would like to express our heartfelt gratitude to all those who supp' []
+  R1: ', Dr. N.M. Veeraiyan' [BOLD]
+  R2: ', Saveetha Institute of Medical and Technical Sciences, for his consta' []
+  R3: 'Dr. Deepak Nallaswamy Veeraiyan,' [BOLD]
+  R4: 'and our Vice-Chancellor, Dr. S. Suresh Kumar, for their visionary lead' []
+
+[P70] Style='Body' Align=None
+  Text: 'We are truly grateful to our Director, Dr.Deepak Veeraiyan , SIMATS Engineering, for providing us with the necessary res'
+  R0: 'We are truly grateful to our Director,' []
+  R1: 'Dr.Deepak Veeraiyan ,' [BOLD]
+  R2: 'SIMATS Engineering, for providing us with the necessary resources and ' []
+  R3: '’' []
+  R4: 's facilities and encouraging us throughout the process. We sincerely t' []
+  R5: 'DR. Sriramya' [BOLD]
+  R6: 'for his continuous support, valuable guidance, and constant motivation' []
+
+[P71] Style='Body' Align=LEFT
+  Text: 'We are especially indebted to our guide, DR. Poorani for his creative suggestions, consistent feedback, and unwavering s'
+  SpaceAfter: 116840
+  LineSpacing: 1.0 rule=SINGLE (0)
+  R0: 'We are especially indebted to our guide,' []
+  R1: 'DR.' [BOLD]
+  R2: 'Poorani' [BOLD]
+  R4: 'for his creative suggestions, consistent feedback, and unwavering supp' []
+
+[P72] Style='Body' Align=LEFT
+  Text: 'Signature with Student Name'
+  SpaceAfter: 122555
+  LineSpacing: 1.0 rule=SINGLE (0)
+  R0: 'Signature with Student Name' []
+
+[P73] Style='Body' Align=LEFT
+  Text: 'K.Rakul [192525143]'
+  SpaceAfter: 122555
+  LineSpacing: 1.0 rule=SINGLE (0)
+  R0: 'K.Rakul [192525143]' []
+
+[P74] Style='Body' Align=LEFT
+  Text: 'N.Sanjay [192524148]'
+  SpaceAfter: 122555
+  LineSpacing: 1.0 rule=SINGLE (0)
+  R0: 'N.Sanjay [192524148]' []
+
+[P75] Style='Body' Align=LEFT
+  Text: 'B.Nikhil sagar reddy [192512117]'
+  SpaceAfter: 122555
+  LineSpacing: 1.0 rule=SINGLE (0)
+  R0: 'B.Nikhil sagar reddy [192512117]' []
+
+[P78] Style='Heading' Align=JUSTIFIED
+  Text: 'ABSTRACT'
+  R0: 'ABSTRACT' []
+
+[P79] Style='Body' Align=LEFT
+  Text: 'Testing VPN Across Different Operating Systems'
+  SpaceAfter: 101600
+  LineSpacing: 1.0791666666666666 rule=MULTIPLE (5)
+  R0: 'Testing VPN Across Different Operating Systems' [BOLD]
+
+--- Tables (1) ---
+
+Table 1: 6r x 3c
+  R0: ['S.NO', 'CONTENT', 'Page. No']
+    Cell0 format: [size=14.0pt, BOLD]
+    Cell1 format: [size=14.0pt, BOLD]
+    Cell2 format: [size=14.0pt, BOLD]
+  R1: ['1.', 'Introduction \nBackground Information\nPro', '08']
+  R2: ['2.', 'Problem Identification and Analysis\n    ', '12']
+  R3: ['3.', 'Solution Design and Implementation\n     ', '15']
+  R4: ['4.', 'Results and Recommendations \n           ', '23']
+  R5: ['5.\n\n \n6.', 'Reflection On Learning and Personal Deve', '28\n\n\n\n      30']
+
+--- Images ---
+  media/image1.png
+  media/image2.png
+  media/image3.png
+  media/image4.png
+  media/image5.png
+  media/image6.png

@@ -1,0 +1,297 @@
+﻿Saved: image_5.png (131864 bytes)
+
+=== DETAILED PARAGRAPH ANALYSIS ===
+[P0] align=None style=Heading 1
+  run: text='PROJECT' bold=None size=None font=None
+  run: text='TITLE' bold=None size=None font=None
+
+[P2] align=CENTER (1) style=Normal
+  run: text='A' bold=True size=177800 font=None
+  run: text='CAPSTONE' bold=True size=177800 font=None
+  run: text='PROJECT' bold=True size=177800 font=None
+  run: text='REPORT' bold=True size=177800 font=None
+
+[P5] align=CENTER (1) style=Normal
+  run: text='Submitted' bold=None size=177800 font=None
+  run: text='in' bold=None size=177800 font=None
+  run: text='the' bold=None size=177800 font=None
+  run: text='partial' bold=None size=177800 font=None
+  run: text='fulfilment' bold=None size=177800 font=None
+  run: text='for' bold=None size=177800 font=None
+  run: text='the' bold=None size=177800 font=None
+  run: text='Course' bold=None size=177800 font=None
+  run: text=' of' bold=None size=177800 font=None
+
+[P7] align=None style=Heading 2
+  run: text='Course' bold=None size=None font=None
+  run: text='Code' bold=None size=None font=None
+  run: text='û' bold=None size=None font=None
+  run: text='Course' bold=None size=None font=None
+  run: text='Name' bold=None size=None font=None
+  run: text='with' bold=None size=None font=None
+  run: text='Extension' bold=None size=None font=None
+
+[P9] align=CENTER (1) style=Normal
+  run: text='to the award of the degree of ' bold=None size=177800 font=None
+  run: text='BACHELOR' bold=True size=177800 font=None
+  run: text='OF' bold=True size=177800 font=None
+  run: text='ENGINEERING ' bold=True size=177800 font=None
+  run: text='IN' bold=True size=177800 font=None
+
+[P10] align=CENTER (1) style=Normal
+  run: text='Branch' bold=True size=177800 font=None
+  run: text='Name' bold=True size=177800 font=None
+  run: text='(E.g.' bold=True size=177800 font=None
+  run: text='BIOTECHNOLOGY)' bold=True size=177800 font=None
+
+[P13] align=None style=Normal
+  run: text='Submitted by ' bold=True size=177800 font=None
+  run: text='Student' bold=True size=177800 font=None
+  run: text='Name' bold=True size=177800 font=None
+  run: text='(Reg.' bold=True size=177800 font=None
+  run: text='No.) Student' bold=True size=177800 font=None
+  run: text='Name' bold=True size=177800 font=None
+  run: text='(Reg.' bold=True size=177800 font=None
+  run: text='No.)' bold=True size=177800 font=None
+
+[P15] align=CENTER (1) style=Normal
+  run: text='Under' bold=True size=177800 font=None
+  run: text='the' bold=True size=177800 font=None
+  run: text='Supervision' bold=True size=177800 font=None
+  run: text='of ' bold=True size=177800 font=None
+  run: text='Guide Name' bold=True size=177800 font=None
+
+[P18] align=None style=Heading 1
+  run: text='SIMATS' bold=None size=None font=None
+  run: text='ENGINEERING' bold=None size=None font=None
+
+[P19] align=CENTER (1) style=Normal
+  run: text='Saveetha' bold=True size=177800 font=None
+  run: text='Institute' bold=True size=177800 font=None
+  run: text='of' bold=True size=177800 font=None
+  run: text='Medical' bold=True size=177800 font=None
+  run: text='and' bold=True size=177800 font=None
+  run: text='Technical' bold=True size=177800 font=None
+  run: text='Sciences ' bold=True size=177800 font=None
+  run: text='Chennai-602105' bold=True size=177800 font=None
+
+[P21] align=CENTER (1) style=Normal
+  run: text='July' bold=True size=177800 font=None
+  run: text=' 2025' bold=True size=177800 font=None
+
+[P24] align=None style=Heading 1
+  run: text='DECLARATION' bold=None size=None font=None
+
+[P27] align=JUSTIFY (3) style=Body Text
+  run: text='We, ' bold=None size=None font=None
+  run: text='[Student Name' bold=True size=None font=None
+  run: text=' 1' bold=True size=None font=None
+  run: text=']' bold=True size=None font=None
+  run: text=',' bold=True size=None font=None
+  run: text='[Student Names]' bold=True size=None font=None
+  run: text=',' bold=True size=None font=None
+  run: text='S' bold=True size=None font=None
+  run: text='[Student Names]' bold=True size=None font=None
+  run: text='of the ' bold=None size=None font=None
+  run: text='[Department' bold=True size=None font=None
+  run: text='Name]' bold=True size=None font=None
+  run: text=',' bold=True size=None font=None
+  run: text='Saveetha' bold=None size=None font=None
+  run: text='Institute' bold=None size=None font=None
+  run: text='of' bold=None size=None font=None
+  run: text='Medical' bold=None size=None font=None
+  run: text='and Technical Sciences, Saveetha University, Chennai, hereby declare that the Capstone Project Work entitled ' bold=None size=None font=None
+  run: text='æ[Project Title' bold=True size=None font=None
+  run: text=']Æ ' bold=None size=None font=None
+  run: text='is the result of our own ' bold=None size=None font=None
+  run: text='bonafide' bold=None size=None font=None
+  run: text=' efforts. To the best of our knowledge, the work presented herein is original, accurate, and has been carried out in accordance with principles of engineering ethics.' bold=None size=None font=None
+
+[P32] align=None style=Normal
+  run: text='Place:' bold=None size=177800 font=None
+  run: text='Chennai' bold=None size=177800 font=None
+
+[P33] align=None style=Normal
+  run: text='Date:' bold=None size=177800 font=None
+  run: text='submission date' bold=None size=177800 font=None
+
+[P39] align=None style=Normal
+  run: text='Signature' bold=None size=177800 font=None
+  run: text='of' bold=None size=177800 font=None
+  run: text='the' bold=None size=177800 font=None
+  run: text='Students' bold=None size=177800 font=None
+  run: text='with' bold=None size=177800 font=None
+  run: text='Names' bold=None size=177800 font=None
+
+[P42] align=None style=Heading 1
+  run: text='BONAFIDE' bold=None size=None font=None
+  run: text='CERTIFICATE' bold=None size=None font=None
+
+[P44] align=JUSTIFY (3) style=Body Text
+  run: text='This is to certify that the Capstone Project entitled ô' bold=None size=None font=None
+  run: text='Project Title' bold=True size=None font=None
+  run: text='ö has been carried out by ' bold=None size=None font=None
+  run: text='[Student Names' bold=True size=None font=None
+  run: text=' 1' bold=True size=None font=None
+  run: text=']' bold=True size=None font=None
+  run: text=',' bold=True size=None font=None
+  run: text='[Student Names' bold=True size=None font=None
+  run: text=' 2' bold=True size=None font=None
+  run: text=']' bold=True size=None font=None
+  run: text=',' bold=True size=None font=None
+  run: text='[Student Names' bold=True size=None font=None
+  run: text=' 3' bold=True size=None font=None
+  run: text='] ' bold=True size=None font=None
+  run: text='under' bold=None size=None font=None
+  run: text=' the supervision of ' bold=None size=None font=None
+  run: text='[Guide Name] ' bold=True size=None font=None
+  run: text='and is submitted in' bold=None size=None font=None
+  run: text='partial fulfilment of the requirements for the current semester of the ' bold=None size=None font=None
+  run: text='B.Tech' bold=None size=None font=None
+  run: text='[Branch Name] ' bold=True size=None font=None
+  run: text='program at Saveetha Institute of Medical and Technical Sciences, Chennai.' bold=None size=None font=None
+
+[P51] align=None style=Normal
+  run: text='SIGNATURE' bold=None size=None font=None
+  run: text='SIGNATURE' bold=None size=None font=None
+
+[P52] align=None style=Normal
+  run: text='Name' bold=True size=None font=None
+  run: text='of' bold=True size=None font=None
+  run: text='the' bold=True size=None font=None
+  run: text='Program' bold=True size=None font=None
+  run: text='Director' bold=True size=None font=None
+  run: text='\tName' bold=True size=None font=None
+  run: text='of' bold=True size=None font=None
+  run: text='the' bold=True size=None font=None
+  run: text='Guide' bold=True size=None font=None
+
+[P53] align=None style=Normal
+  run: text='Program' bold=True size=None font=None
+  run: text='Director' bold=True size=None font=None
+  run: text='Designation' bold=True size=None font=None
+
+[P54] align=None style=Normal
+  run: text='Department' bold=None size=None font=None
+  run: text='Name' bold=None size=None font=None
+  run: text='(Branch)' bold=None size=None font=None
+  run: text='\tDepartment' bold=None size=None font=None
+  run: text='Name' bold=None size=None font=None
+  run: text='(Branch)' bold=None size=None font=None
+
+[P55] align=None style=Normal
+  run: text='Saveetha' bold=None size=None font=None
+  run: text='School' bold=None size=None font=None
+  run: text='of' bold=None size=None font=None
+  run: text='Engineering' bold=None size=None font=None
+  run: text='\tSaveetha' bold=None size=None font=None
+  run: text='School' bold=None size=None font=None
+  run: text='of' bold=None size=None font=None
+  run: text='Engineering' bold=None size=None font=None
+
+[P56] align=None style=Normal
+  run: text='SIMATS' bold=None size=None font=None
+  run: text='SIMATS' bold=None size=None font=None
+
+[P62] align=None style=Normal
+  run: text='Submitted' bold=None size=None font=None
+  run: text='for' bold=None size=None font=None
+  run: text='the' bold=None size=None font=None
+  run: text='Project' bold=None size=None font=None
+  run: text='work' bold=None size=None font=None
+  run: text='Viva-Voce' bold=None size=None font=None
+  run: text='held' bold=None size=None font=None
+  run: text='on' bold=None size=None font=None
+  run: text='viva date' bold=None size=None font=None
+
+[P63] align=None style=Normal
+  run: text='.' bold=None size=None font=None
+
+[P70] align=None style=Normal
+  run: text='INTERNAL' bold=None size=None font=None
+  run: text='EXAMINER' bold=None size=None font=None
+  run: text='\tEXTERNAL' bold=None size=None font=None
+  run: text='EXAMINER' bold=None size=None font=None
+
+[P72] align=None style=Heading 1
+  run: text='ACKNOWLEDGEMENT' bold=None size=None font=None
+
+[P74] align=JUSTIFY (3) style=Body Text
+  run: text='We would like to express our heartfelt gratitude to all those who supported and guided us throughout the successful completion of our Capstone Project. We are deeply thankful to our respected Founder and Chancellor, Dr. N.M. Veeraiyan, Saveetha' bold=None size=None font=None
+  run: text='Institute of Medical and Technical Sciences,' bold=None size=None font=None
+  run: text='for' bold=None size=None font=None
+  run: text='his' bold=None size=None font=None
+  run: text='constant' bold=None size=None font=None
+  run: text='encouragement' bold=None size=None font=None
+  run: text='and' bold=None size=None font=None
+  run: text='blessings.' bold=None size=None font=None
+  run: text='We' bold=None size=None font=None
+  run: text='also express our sincere thanks to our Pro-Chancellor, Dr. Deepak' bold=None size=None font=None
+  run: text='Nallaswamy' bold=None size=None font=None
+  run: text='Veeraiyan,' bold=None size=None font=None
+  run: text='and our' bold=None size=None font=None
+  run: text='Vice-Chancellor,' bold=None size=None font=None
+  run: text='Dr.' bold=None size=None font=None
+  run: text='S.' bold=None size=None font=None
+  run: text='Suresh' bold=None size=None font=None
+  run: text='Kumar,' bold=None size=None font=None
+  run: text='for' bold=None size=None font=None
+  run: text='their' bold=None size=None font=None
+  run: text='visionary' bold=None size=None font=None
+  run: text='leadership' bold=None size=None font=None
+  run: text='and' bold=None size=None font=None
+  run: text='moral' bold=None size=None font=None
+  run: text='support during the course of this project.' bold=None size=None font=None
+
+[P76] align=JUSTIFY (3) style=Body Text
+  run: text='We' bold=None size=None font=None
+  run: text='are' bold=None size=None font=None
+  run: text='truly' bold=None size=None font=None
+  run: text='grateful' bold=None size=None font=None
+  run: text='to' bold=None size=None font=None
+  run: text='our' bold=None size=None font=None
+  run: text='Director,' bold=None size=None font=None
+  run: text='Dr.' bold=None size=None font=None
+  run: text='Ramya' bold=None size=None font=None
+  run: text='Deepak,' bold=None size=None font=None
+  run: text='SIMATS' bold=None size=None font=None
+  run: text='Engineering,' bold=None size=None font=None
+  run: text='for providing us with the necessary resources and a motivating academic environment. Our special thanks to our Principal, Dr. B. Ramesh for granting us access to the instituteÆs facilities and encouraging us throughout the process. We sincerely thank our Head of the Department, ' bold=None size=None font=None
+  run: text='Program Director NAME ' bold=True size=None font=None
+  run: text='for his continuous support, valuable guidance,' bold=None size=None font=None
+  run: text='and constant motivation.' bold=None size=None font=None
+
+[P78] align=JUSTIFY (3) style=Body Text
+  run: text='We are especially indebted to our guide,' bold=None size=None font=None
+  run: text='Guide' bold=True size=None font=None
+  run: text='Name' bold=True size=None font=None
+  run: text='for' bold=None size=None font=None
+  run: text='his' bold=None size=None font=None
+  run: text='creative' bold=None size=None font=None
+  run: text='suggestions, consistent feedback, and unwavering support during each stage of the project. We also express our gratitude to the Project Coordinators, Review Panel Members (Internal and External), and the entire faculty team for their constructive feedback and valuable inputs that helped improve the quality of our work. Finally, we thank all faculty members, lab technicians, our parents, and friends for their continuous encouragement and support.' bold=None size=None font=None
+
+[P84] align=RIGHT (2) style=Body Text
+  run: text='Signature' bold=None size=None font=None
+  run: text='With' bold=None size=None font=None
+  run: text='Student' bold=None size=None font=None
+  run: text='Name' bold=None size=None font=None
+
+[P85] align=RIGHT (2) style=Normal
+  run: text='(' bold=True size=152400 font=None
+  run: text='Student Name' bold=True size=152400 font=None
+  run: text=' 1 -Reg No)' bold=True size=152400 font=None
+
+[P86] align=RIGHT (2) style=Normal
+  run: text='(Student Name ' bold=True size=152400 font=None
+  run: text='2 ' bold=True size=152400 font=None
+  run: text='- ' bold=True size=152400 font=None
+  run: text='Reg.No' bold=True size=152400 font=None
+  run: text=')' bold=True size=152400 font=None
+
+[P87] align=RIGHT (2) style=Normal
+  run: text='(Student Name ' bold=True size=152400 font=None
+  run: text='3 ' bold=True size=152400 font=None
+  run: text='- ' bold=True size=152400 font=None
+  run: text='Reg.No' bold=True size=152400 font=None
+  run: text=')' bold=True size=152400 font=None
+
